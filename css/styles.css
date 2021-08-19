@@ -191,13 +191,17 @@ header nav ul li#logo a:hover {
    margin: 20px 10px;
 }
 
+#recommendations {
+   position: relative;
+}
+
 #feature-image img{
 	width: 480px;
    height: 300px;
    float: left;
    position: absolute;
-   top : 1400px;
-   left: 630px;
+   top : 100px;
+   left: 480px;
 }
 
 /* Footer */
